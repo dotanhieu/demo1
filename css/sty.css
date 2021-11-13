@@ -1,0 +1,42 @@
+
+body{background-color:#333300;
+
+    text-align:center;
+
+    }
+
+    p{ color:#E63EC8;
+
+    font-size:50px;
+
+    }
+
+    #menu ul li{
+
+    margin:0;
+
+    padding:0;
+
+    text-align:center;
+
+    display:inline;    }
+
+    #menu li a{
+
+    font-size:20px;
+
+    font-weight:bold;
+
+    color:#CC0033;
+
+    padding: 0 15px;
+
+    border-right:1px solid #00FF333;
+
+    text-transform:uppercase;
+
+    text-decoration:none;
+
+    }
+
+    #menu ul li:hover{background:white;}
